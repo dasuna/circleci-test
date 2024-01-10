@@ -6,7 +6,7 @@ def TestAdd():
         print("Add Function works correctly")
 
 def TestSub():
-	assert Subtract(7,4) == 3
+	assert subtract(7,4) == 3
 	print("Subtract Function works correctly")
 
 if __name__ == '__main__':
